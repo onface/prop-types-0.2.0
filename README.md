@@ -1,4 +1,6 @@
-## PropTypes
+## PropTypes@0.2.0
+
+> 这是 PropTypes@0.2.0 的备份。因为我有些库用的是 0.2.0
 
 Extracted from [`React.PropTypes`](http://facebook.github.io/react/docs/reusable-components.html#prop-validation). To use without a dependency on `React`.
 
